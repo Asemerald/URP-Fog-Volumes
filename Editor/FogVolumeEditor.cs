@@ -1,7 +1,6 @@
 using UnityEngine;
 using UnityEditor;
 using UnityEditor.Rendering;
-using System.IO;
 
 // Ripped from the SRP Volume component editor with significant changes. 
 namespace Sinnwrig.FogVolumes.Editor
